@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Ko
 #EXTINF:-1, tvg-logo="https://iili.io/JV3xZtS.png" tvg-id="Metro TV.id", group-title="LOKAL", METRO TV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-MetroTV.m3u8
 
+
+
 #EXTGRP:Nasional
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3vUJ.png" tvg-id="Moji.id", group-title="LOKAL", MOJI
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Moji.m3u8
@@ -70,3 +72,15 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GtV.m3u8
 #EXTGRP:Nasional
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MncTVHD.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC TEST
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MncHD.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV TEST
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GtvHD.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", group-title="LOKAL", RCTI TEST
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RCTI.m3u8
