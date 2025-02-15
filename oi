@@ -54,10 +54,10 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/InewsTvHD.m3
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", group-title="LOKAL", RCTI
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RCTIHD.m3u8
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RcTi.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GTV.m3u8
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GtV.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MncTVHD.m3u8
