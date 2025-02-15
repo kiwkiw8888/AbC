@@ -1,0 +1,72 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:10
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp31cb.png" tvg-id="ANTV.id", ANTV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-ANTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3wV1.png" tvg-id="Indosiar.id", INDOSIAR
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Indosiar.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JV3x6cG.png" tvg-id="Kompas TV.id", KOMPAS TV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-KompasTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xZtS.png" tvg-id="Metro TV.id", METRO TV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-MetroTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3vUJ.png" tvg-id="Moji.id", MOJI
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Moji.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3URR.png" tvg-id="NET TV.id", NET TV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-NetTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3PVt.png" tvg-id="RTV.id", RTV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-RTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3iiX.png" tvg-id="SCTV.id", SCTV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-SCTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xQN2.png" tvg-id="Sindo News TV HD - [Channel 434].id", SINDONEWS
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Sindonews.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3DJf.png" tvg-id="TVRI.id", TVRI
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-TVRI.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3Qls.png" tvg-id="Trans7.id", TRANS7
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Trans7.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", TRANSTV
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-TransTV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JV3x4Fs.png" tvg-id="iNews HD - [Channel 433].id", INEWS
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-INews.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xSnt.png" tvg-id="CNN Indonesia.id", CNN News
+https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-CNNIndonesia.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", RCTI
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RcTi.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", GTV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GtV.m3u8
+
+#EXTGRP:Nasional
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", MNC
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MncTVHD.m3u8
