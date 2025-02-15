@@ -3,9 +3,10 @@
  
 ######################################################################TV CHANNELS#############################################################################################################################################
 
-
 #EXTINF:-1, tvg-logo="https://iili.io/JMp31cb.png" tvg-id="ANTV.id", group-title="LOKAL", ANTV
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AnTvHD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3wV1.png" tvg-id="Indosiar.id", group-title="LOKAL", INDOSIAR
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
@@ -23,7 +24,13 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Moji.m3u8
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3PVt.png" tvg-id="RTV.id", group-title="LOKAL", RTV
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RodjaTV.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3iiX.png" tvg-id="SCTV.id", group-title="LOKAL", SCTV
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SCTV.m3u8
