@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TVRINasional
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3Qls.png" tvg-id="Trans7.id", group-title="LOKAL", TRANS7
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Trans7.m3u8
 
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", group-title="LOKAL" TRANSTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", group-title="LOKAL", TRANSTV
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TransTV.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JV3x4Fs.png" tvg-id="iNews HD - [Channel 433].id", group-title="LOKAL", INEWS
