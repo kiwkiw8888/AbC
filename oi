@@ -1,72 +1,72 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-TARGETDURATION:10
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
+ 
+######################################################################TV CHANNELS#############################################################################################################################################
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp31cb.png" tvg-id="ANTV.id", ANTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp31cb.png" tvg-id="ANTV.id", group-title="LOKAL", ANTV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-ANTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3wV1.png" tvg-id="Indosiar.id", INDOSIAR
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3wV1.png" tvg-id="Indosiar.id", group-title="LOKAL", INDOSIAR
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Indosiar.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JV3x6cG.png" tvg-id="Kompas TV.id", KOMPAS TV
+#EXTINF:-1, tvg-logo="https://iili.io/JV3x6cG.png" tvg-id="Kompas TV.id", group-title="LOKAL", KOMPAS TV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-KompasTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JV3xZtS.png" tvg-id="Metro TV.id", METRO TV
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xZtS.png" tvg-id="Metro TV.id", group-title="LOKAL", METRO TV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-MetroTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3vUJ.png" tvg-id="Moji.id", MOJI
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3vUJ.png" tvg-id="Moji.id", group-title="LOKAL", MOJI
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Moji.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3URR.png" tvg-id="NET TV.id", NET TV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3URR.png" tvg-id="NET TV.id", group-title="LOKAL", NET TV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-NetTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3PVt.png" tvg-id="RTV.id", RTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3PVt.png" tvg-id="RTV.id", group-title="LOKAL", RTV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-RTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3iiX.png" tvg-id="SCTV.id", SCTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3iiX.png" tvg-id="SCTV.id", group-title="LOKAL", SCTV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-SCTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JV3xQN2.png" tvg-id="Sindo News TV HD - [Channel 434].id", SINDONEWS
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xQN2.png" tvg-id="Sindo News TV HD - [Channel 434].id", group-title="LOKAL", SINDONEWS
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Sindonews.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3DJf.png" tvg-id="TVRI.id", TVRI
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3DJf.png" tvg-id="TVRI.id", group-title="LOKAL", TVRI
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-TVRI.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3Qls.png" tvg-id="Trans7.id", TRANS7
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3Qls.png" tvg-id="Trans7.id", group-title="LOKAL", TRANS7
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-Trans7.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", TRANSTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", group-title="LOKAL" TRANSTV
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-TransTV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JV3x4Fs.png" tvg-id="iNews HD - [Channel 433].id", INEWS
+#EXTINF:-1, tvg-logo="https://iili.io/JV3x4Fs.png" tvg-id="iNews HD - [Channel 433].id", group-title="LOKAL", INEWS
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-INews.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JV3xSnt.png" tvg-id="CNN Indonesia.id", CNN News
+#EXTINF:-1, tvg-logo="https://iili.io/JV3xSnt.png" tvg-id="CNN Indonesia.id", group-title="LOKAL", CNN News
 https://raw.githubusercontent.com/NSse7en/MyIndi/refs/heads/main/NS7-Indi/NS7-CNNIndonesia.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", RCTI
+#EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", group-title="LOKAL", RCTI
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/RcTi.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", GTV
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/GtV.m3u8
 
 #EXTGRP:Nasional
-#EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", MNC
+#EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MncTVHD.m3u8
