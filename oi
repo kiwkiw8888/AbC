@@ -4,10 +4,8 @@
 ######################################################################TV CHANNELS#############################################################################################################################################
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp31cb.png" tvg-id="ANTV.id", group-title="LOKAL", ANTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(03)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3wV1.png" tvg-id="Indosiar.id", group-title="LOKAL", INDOSIAR
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
@@ -57,15 +55,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", group-title="LOKAL", RCTI
 #EXT-X-STREAM-INF:BANDWIDTH=1541407,AVERAGE-BANDWIDTH=1401279,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=768x432,FRAME-RATE=25.000
-https://1s1.rctiplus.id/rcti2023-avc1_1200000=5-mp4a_128000=2.m3u8
+https://allcutv.rctiplus.id/rcti2023-avc1_1200000=5-mp4a_128000=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+#EXT-X-STREAM-INF:BANDWIDTH=1051009,AVERAGE-BANDWIDTH=955463,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://1s1.rctiplus.id/gtv2023-avc1_800000=4-mp4a_106400_eng=9.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=1541407,AVERAGE-BANDWIDTH=1401279,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=768x432,FRAME-RATE=25.000
+https://1s1.rctiplus.id/mnctv2023-avc1_1200000=5-mp4a_128000=2.m3u8
 
 =====================================================anak==================================================================================
 
