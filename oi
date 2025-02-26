@@ -43,7 +43,8 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SindoNews.m3
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TVRINasional.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3Qls.png" tvg-id="Trans7.id", group-title="LOKAL", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3ZUG.png" tvg-id="TRANS TV.id", group-title="LOKAL", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -55,19 +56,18 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/InewsTvHD.m3
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp36xI.png" tvg-id="RCTI.id", group-title="LOKAL", RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+#EXT-X-STREAM-INF:BANDWIDTH=1541407,AVERAGE-BANDWIDTH=1401279,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=768x432,FRAME-RATE=25.000
+https://1s1.rctiplus.id/rcti2023-avc1_1200000=5-mp4a_128000=2.m3u8
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+=====================================================anak==================================================================================
 
 #EXTINF:-1 tvg-id="Animax - [Channel 157].id"  tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="ANAK", ANIMAX 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
