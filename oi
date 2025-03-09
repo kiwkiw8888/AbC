@@ -63,10 +63,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3joP.png" tvg-id="GTV.id", group-title="LOKAL", GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://mantul.biz.id:443/live/inetwork/gayanet12/8932.ts
 
 #EXTINF:-1, tvg-logo="https://iili.io/JMp3kla.png" tvg-id="MNC.id", group-title="LOKAL", MNC
 #EXTVLCOPT:http-user-agent=android-R+
